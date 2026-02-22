@@ -4,12 +4,12 @@ setlocal enabledelayedexpansion
 ECHO  ________________________________
 ECHO "       _____ _____   _____      "
 ECHO "      / ____|  __ \ / ____|     "
-ECHO "     | (___ | |__) | |          "
-ECHO "      \___ \|  _  /| |          "
-ECHO "      ____) | | \ \| |____      "
-ECHO "     |_____/|_|  \_\\_____|     "
+ECHO "     | (___ | |__) | (___       "
+ECHO "      \___ \|  _  / \___ \      "
+ECHO "      ____) | | \ \ ____) |     "
+ECHO "     |_____/|_|  \_\_____/      "
 ECHO "                                "
-ECHO "   Screen Resolution Changer    "
+ECHO "   Screen Resolution Switch     "
 ECHO "________________________________"
 ECHO.
 ECHO    Using QRes by Anders Kjersem
