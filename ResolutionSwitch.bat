@@ -12,7 +12,7 @@ ECHO "                                "
 ECHO "   Screen Resolution Changer    "
 ECHO "________________________________"
 ECHO.
-ECHO    Using QRES by Anders Kjersem
+ECHO    Using QRes by Anders Kjersem
 ECHO  ________________________________
 ECHO.
 
