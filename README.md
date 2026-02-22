@@ -55,6 +55,11 @@ This example applies **1440p 144Hz** immediately.
 
 After applying the resolution, PowerShell displays a toast notification confirming the change, with a custom icon.
 
+Example of notification:
+
+<img width="359" height="118" alt="image" src="https://github.com/user-attachments/assets/138dc179-b64d-4be8-a08f-016d52a5d2a7" />
+
+
 ---
 
 ## 🛠️ Customization
